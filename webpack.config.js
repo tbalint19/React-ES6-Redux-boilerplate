@@ -5,12 +5,9 @@ module.exports = {
 
   entry: {
      home: './home/main.jsx'
-    //  list: './list/main.jsx',
-    //  profile: './profile/main.jsx'
   },
 
   output: {
-      // path: '../todo_app/_apps/',
       path: './',
       filename: "[name].js",
   },
